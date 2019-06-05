@@ -4,7 +4,7 @@ Imports, manipulates, and encrypts text from an outside source; manipulates book
 
 This requires Python to be installed on the user's computer. 
 
-This program was made in a programming class.
+This program was my open-ended final project in a programming class.
 
 This program inputs the contents of a text file, strips away punctuation, and encrypts the text using a simple Caeasar shift.
 The shift is randomized so the results will vary from user to user.
